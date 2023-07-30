@@ -39,6 +39,7 @@
     height: 50px;
     float: left;
     text-align: center;
+    border: solid 2px;
     color:#ffffff;
     } 
 .s1:hover{
@@ -52,6 +53,7 @@ cursor:pointer;
     height: 50px;
     float: left;
     text-align: center;
+    border: solid 2px;
     color:#ffffff;
     } 
 .s2:hover{
@@ -65,6 +67,7 @@ cursor:pointer;
     height: 50px;
     float: left;
     text-align: center;
+    border: solid 2px;
     color:#ffffff;
     } 
 .s3:hover{
@@ -78,7 +81,7 @@ cursor:pointer;
     width:150px;
     height: 50px;
     float: left;
- 
+    border: solid 2px;
  }
  
     </frame_right>
